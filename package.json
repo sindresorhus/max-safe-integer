@@ -1,6 +1,6 @@
 {
   "name": "max-safe-integer",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "ES2015 Number.MAX_SAFE_INTEGER ponyfill",
   "license": "MIT",
   "repository": "sindresorhus/max-safe-integer",
